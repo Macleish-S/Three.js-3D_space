@@ -2,8 +2,8 @@ import * as THREE from 'three';
 import { OrbitControls } from 'three/examples/jsm/controls/OrbitControls.js';
 
 // Add your image paths here
-import starsTexture from '../three.js-3D/img/stars.jpg';
-import neptuneTexture from '../three.js-3D/img/neptune.jpg';
+import starsTexture from '../img/stars.jpg';
+import neptuneTexture from '../img/neptune.jpg';
 
 
 
